@@ -37,14 +37,14 @@
  ### 1.1 Project Objective
  
   - We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
-  - Application under test:https://demo.guru99.com/V4/index.php.
-  - Documentation:https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit.
+  - Application under test: https://demo.opencart.com/
+  - Documentation: http://docs.opencart.com/en-gb/introduction/
 
  ### 1.2 Functionalities in scope
 
-  - To ensure that new customers can successfully register and access the Guru99 Bank services
-  - Functional testing & external interfaces are in scope and need to be tested
-  - The banking site will be only compatible with Chrome version 27 and above
+  - To ensure that new customers can successfully register and access the OpenCart services.
+  - Functional testing & external interfaces are in scope and need to be tested.
+  - The shoping site will be only compatible with Chrome version 27 and above and with opera.
   - Here we should write all the functionalities that are included in the release.
   - Testing the functionalities related to account management, including account creation, updating, and deletion.
    
