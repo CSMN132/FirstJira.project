@@ -159,4 +159,41 @@
 
 ## 3.	Test deliverables
 
- ### 3.1 Test condition
+ ### 3.1 Test cases
+
+ https://itfclasses.atlassian.net/browse/GCT-18?atlOrigin=eyJpIjoiODAwMzI5MmQyNmJlNDc0YWJkYzMyN2ZhZTczYTNlMmEiLCJwIjoiaiJ9
+
+ https://itfclasses.atlassian.net/browse/GCT-23?atlOrigin=eyJpIjoiODZjM2I5M2NkMTIxNDJiMGI0NmM4NjA3ZmM5MWZkY2IiLCJwIjoiaiJ9
+
+ https://itfclasses.atlassian.net/browse/GCT-36?atlOrigin=eyJpIjoiM2NhMGM5NjY3ZWNlNDEzOWE4NjdjZTc0NmUyODcwNzYiLCJwIjoiaiJ9
+
+ ### 3.2 Daily test summary report
+
+ ![image](https://github.com/CSMN132/FirstJira.project/assets/139993897/155df3de-5fb2-47be-92ca-1365d02a8cea)
+
+ ### 3.3 Bugs report
+
+ https://itfclasses.atlassian.net/browse/GCT-73?atlOrigin=eyJpIjoiNzQyZWFlZWZkNjU2NDdhM2E4OTc2YzhmNGE0ODhjN2UiLCJwIjoiaiJ9
+
+ https://itfclasses.atlassian.net/browse/GCT-72?atlOrigin=eyJpIjoiZThjZTQwM2E5NDJlNDU0ZGJlYzZhNGJjNTgzNzMxNDYiLCJwIjoiaiJ9
+
+ https://itfclasses.atlassian.net/browse/GCT-71?atlOrigin=eyJpIjoiODYwMjM1MDk5YzRmNDNjZTg1NzQ3MWU0Mzk4OGQxYWQiLCJwIjoiaiJ9
+
+ ### 3.4 Test completion report
+
+ ![image](https://github.com/CSMN132/FirstJira.project/assets/139993897/65aededf-9501-4a2f-943b-a548fd309071)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
